@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+      {"src": "/(.*)","dest": "http://blog.alone-hk.cn/$1"}
+  ]
+}
